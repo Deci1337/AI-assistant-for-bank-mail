@@ -1,4 +1,4 @@
-# BizMail AI Assistant
+# AI assistant for bank mails
 
 AI-ассистент для генерации корпоративных писем. Backend на FastAPI с интеграцией YandexGPT, Frontend на React.
 
@@ -26,9 +26,6 @@ npm run dev
 
 Frontend будет доступен на `http://localhost:5500`
 
-### Старый HTML фронтенд
-
-Старый HTML файл `site.html` можно открыть напрямую в браузере или через Live Server.
 
 ## Проверка интеграции
 
