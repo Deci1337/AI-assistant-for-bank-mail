@@ -1,0 +1,2 @@
+"""BizMail backend application."""
+
